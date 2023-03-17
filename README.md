@@ -1,26 +1,8 @@
-### Hi there 👋
-
-<!--
-**pabang0620/pabang0620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 개발 성장 과정
-
----
+# 개발 과정
 
 ## Oct 3rd ~ Dec 2nd 웹페이지 "원티드" 클론 코딩
 
-HTML CSS JS <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> - WantedCloneReact
+HTML CSS JS React - WantedCloneReact
 
 Redux, reacthooks, media queries, and styled-component
 
@@ -28,7 +10,7 @@ Redux, reacthooks, media queries, and styled-component
 
 ## Nov 21th ~ Nov 27th API 사이드 프로젝트
 
-주식 날씨 뉴스 등 공공데이터 사용 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> - API
+주식 날씨 뉴스 등 공공데이터 사용 React - API
 
 RestAPI, Slick-slider
 
@@ -44,7 +26,7 @@ AWS로 EC2, RDS, S3 인스턴스 생성, MySQL 프로그래머스 고득점 Kit,
 
 ###### Jan 16th ~ Jan 29th - GridgeTest(너디너리 주관)
 
-인스타그램 클론 코딩 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> - 그릿지테스트
+인스타그램 클론 코딩 React - 그릿지테스트
 /stargram 으로 접속
 
 
