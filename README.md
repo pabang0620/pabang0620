@@ -1,6 +1,5 @@
 # 개발 과정
 
-## Oct 3rd ~ Dec 2nd 웹페이지 "원티드" 클론 코딩
 ## ASAC 풀스택개발자 양성과정(2022.09 ~ 2023.03)
 
 [ASAC 파이썬 알고리즘 (2022.09)](https://www.notion.so/ASAC-2022-09-c8c401ada39c4125b8432029e930b1d4)
@@ -11,7 +10,7 @@
 
 [ASAC 그릿지 테스트 (2023.01)](https://www.notion.so/ASAC-2023-01-e2733ba0828a4f3592dc23374fa16139)
 
-[ASAC 기업 프로젝트 - 앨리스 헬스케어 (Weelo kids) (2023.01~2023.03)](https://www.notion.so/ASAC-Weelo-kids-2023-01-2023-03-bdeb7e84be514cc7bf5a26cdf4c56763)
+[ASAC 기업 협업 프로젝트 - 앨리스 헬스케어 (Weelo kids) (2023.01~2023.03)](https://www.notion.so/ASAC-Weelo-kids-2023-01-2023-03-bdeb7e84be514cc7bf5a26cdf4c56763)
 
 ### 협업 프로젝트
 
