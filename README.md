@@ -1,42 +1,21 @@
 # 개발 과정
 
 ## Oct 3rd ~ Dec 2nd 웹페이지 "원티드" 클론 코딩
+## ASAC 풀스택개발자 양성과정(2022.09 ~ 2023.03)
 
-HTML CSS JS React - WantedCloneReact
+[ASAC 파이썬 알고리즘 (2022.09)](https://www.notion.so/ASAC-2022-09-c8c401ada39c4125b8432029e930b1d4)
 
-Redux, reacthooks, media queries, and styled-component
+[ASAC 웹 개발 (2022.10~2022.12)](https://www.notion.so/ASAC-2022-10-2022-12-8a1708bdbb2e485bb70c7b0a0c907df1)
 
----
+[ASAC 서버 개발 (2022.12~2023.01)](https://www.notion.so/ASAC-2022-12-2023-01-267c77c919224b66b025c49a5a54377c)
 
-## Nov 21th ~ Nov 27th API 사이드 프로젝트
+[ASAC 그릿지 테스트 (2023.01)](https://www.notion.so/ASAC-2023-01-e2733ba0828a4f3592dc23374fa16139)
 
-주식 날씨 뉴스 등 공공데이터 사용 React - API
+[ASAC 기업 프로젝트 - 앨리스 헬스케어 (Weelo kids) (2023.01~2023.03)](https://www.notion.so/ASAC-Weelo-kids-2023-01-2023-03-bdeb7e84be514cc7bf5a26cdf4c56763)
 
-RestAPI, Slick-slider
+### 협업 프로젝트
 
-
----
-
-###### Dec 2nd ~ Jan 10th 서버 
-
-AWS로 EC2, RDS, S3 인스턴스 생성, MySQL 프로그래머스 고득점 Kit, ERD 설계, Java 입문, 스트링부트 API 개발
-
-
----
-
-###### Jan 16th ~ Jan 29th - GridgeTest(너디너리 주관)
-
-인스타그램 클론 코딩 React - 그릿지테스트
-/stargram 으로 접속
-
-
----
-
-###### Jan 30th ~ Mar 7th 스타트업 인턴
-
-앨리스 헬스케어 Admin 페이지 제작 NextJS, Recoil, Tailwindcss, styled-jsx, tRPC, react-query 
-- (기업보안문제로 git에 push하지않아 잔디가 비어있음)
-
+[사이드 프로젝트 (2023.03~2023.04)](https://www.notion.so/2023-03-2023-04-2c585b3b7a92471cb0abc68e2f72d48c)
 ###### Mar 9th 데모데이 - 부스운영
 기업 프로젝트로 만들었던 페이지를 시연하고 어떤 기술스택을 사용했는지 설명 
 
