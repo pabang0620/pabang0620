@@ -21,6 +21,10 @@ https://www.notion.so/38de94fe8fa741049d3dd00a3c8170ef?p=53f4a6f3f20f44eeb67a844
 
 https://www.notion.so/38de94fe8fa741049d3dd00a3c8170ef?p=e7fb3d2d664245539220da01eebacdf3&pm=c
 
+
+
+
 개인노션 개발일지 :  https://www.notion.so/0d8190dfeee34087b315bbb4ad09d808
+
 노션 포트폴리오   :  https://www.notion.so/38de94fe8fa741049d3dd00a3c8170ef
 
