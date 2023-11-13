@@ -12,15 +12,13 @@
 
 [ASAC 기업 협업 프로젝트 - 앨리스 헬스케어 (Weelo kids) (2023.01~2023.03)](https://www.notion.so/ASAC-Weelo-kids-2023-01-2023-03-bdeb7e84be514cc7bf5a26cdf4c56763)
 
-### 협업 프로젝트 (2023.03 ~ ing)
+### 크몽 웹 서비스     (2023.04 ~ 2023.07)   https://www.notion.so/38de94fe8fa741049d3dd00a3c8170ef?p=53f4a6f3f20f44eeb67a844472c3fe97&pm=c
+외주 플랫폼을 통해 요구사항을 파악하고 구현하며 꾸준히 소통하며 성장하고 있습니다.
 
-[사이드 프로젝트 (2023.03~2023.04)](https://www.notion.so/2023-03-2023-04-2c585b3b7a92471cb0abc68e2f72d48c)
+### 콘텐츠펙토리상상역 (2023.08 ~ 2023.10)   https://www.notion.so/38de94fe8fa741049d3dd00a3c8170ef?p=e7fb3d2d664245539220da01eebacdf3&pm=c
+민방위, 컨텐츠 사업을 주축으로하는 콘텐츠펙토리 상상역에서 풀스택 개발자로 협업하여 고도화 프로젝트를 완료하고 서버를 관리했습니다.
 
-### 개발 활동
-###### Mar 9th 데모데이 - 부스운영
-기업 프로젝트로 만들었던 페이지를 시연하고 어떤 기술스택을 사용했는지 설명 
 
-개인노션 개발일지 :   https://www.notion.so/0d8190dfeee34087b315bbb4ad09d808
-
-노션 포트폴리오 : https://www.notion.so/38de94fe8fa741049d3dd00a3c8170ef
+개인노션 개발일지 :  https://www.notion.so/0d8190dfeee34087b315bbb4ad09d808
+노션 포트폴리오   :  https://www.notion.so/38de94fe8fa741049d3dd00a3c8170ef
 
