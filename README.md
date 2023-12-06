@@ -15,7 +15,7 @@ https://www.notion.so/202304-b3340df85997439c839594a0da439f94
 https://www.notion.so/67009f811d9347a4b0d4b89d89a2cd97
 
 ### 퍼널스 (2023.12 ~ 재직중)   
-
+프로젝트 매니저, 인프라 관리, 풀스택 개발
 
 개인노션 개발일지 :  https://www.notion.so/dbdcc66c9db6405ab756d27c6f79e1fe
 
