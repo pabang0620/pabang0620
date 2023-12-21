@@ -30,5 +30,7 @@ https://www.notion.so/089ff8c90e6a4549b75dc777eff7734d?p=4ae2cfa5f0d141598925b63
 
 
 개인노션 개발일지 :  https://www.notion.so/dbdcc66c9db6405ab756d27c6f79e1fe
+
+
 노션 포트폴리오   :  https://www.notion.so/089ff8c90e6a4549b75dc777eff7734d
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabang0620)](https://github.com/anuraghazra/github-readme-stats)
