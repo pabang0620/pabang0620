@@ -31,9 +31,8 @@ https://www.notion.so/089ff8c90e6a4549b75dc777eff7734d?p=4ae2cfa5f0d141598925b63
 
 
 #### Most used Languages
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabang0620)](https://github.com/pabang0620/github-readme-stats)
 
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usename=pabang0620)](https://github.com/pabang0620/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabang0620)](https://github.com/pabang0620/github-readme-stats)
 
 
 개인노션 개발일지 :  https://www.notion.so/dbdcc66c9db6405ab756d27c6f79e1fe
