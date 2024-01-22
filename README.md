@@ -20,7 +20,7 @@ https://www.notion.so/089ff8c90e6a4549b75dc777eff7734d?p=ba338c2d3f644a80b8a200a
 https://www.notion.so/089ff8c90e6a4549b75dc777eff7734d?p=4ae2cfa5f0d141598925b632c6bd62f6&pm=c
 
 ### 퍼널스 (2023.12 ~ 재직중)   
-프로젝트 매니저, 인프라 관리, 풀스택 개발
+프로젝트 리딩 , 인프라 관리, 풀스택 개발
 
 
 ### 기술스택 
