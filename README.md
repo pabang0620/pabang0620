@@ -28,6 +28,35 @@
 ### 📊 가장 많이 사용한 언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabang0620)](https://github.com/pabang0620/github-readme-stats)
 
+### 지식 습득
+
+- **2022.10 HTML/CSS/JS/React + Slick-Slider**
+
+- **2022.12 부트스트랩, ApexChart, Axios**
+
+- **2023.01  AWS EC2**
+
+- **2023.02 Next.js, TS, Chart.js, react-select, recoil, tailwindcss, react-query**
+
+- **2023.03 카카오맵 API**
+
+- **2023.04 애니메이션**
+
+- **2023.05 API 연동 (Get, Post, Put, Delete)**
+
+- **2023.06 Instagram graph API**
+
+- **2023.08 node.js , mySQL**
+
+- **2023.09 ejs, Linux**
+
+- **2023.10 모든 FE 라이브러리**
+
+- **2023.12 AWS EC2, RDS 스타트업 세팅, ERD 설계**
+
+- **2024.01 프로젝트 리딩 및 기획 (전체 생명주기 참여), Drag and Drop, API 개발**
+
+- **node.js react.js 유지보수 경험 **
 ## 🔗 연결
 - **개인 개발일지**: [노션에서 보기](https://www.notion.so/dbdcc66c9db6405ab756d27c6f79e1fe)
 - **포트폴리오**: [노션에서 확인하기](https://www.notion.so/089ff8c90e6a4549b75dc777eff7734d)
