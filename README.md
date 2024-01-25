@@ -18,6 +18,8 @@
 ### 💼 퍼널스 (2023.12 ~ 재직중)
 - **역할**: 프로젝트 리딩, 인프라 관리, 풀스택 개발
 - **특징**: 다양한 기술 스택 활용과 혁신적인 프로젝트 수행
+전반적인 관리를 맡고 있습니다.
+- **개요**: [ 관리계정](https://github.com/funnels0703)
 
 ## 🛠 기술 스택
 - ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
