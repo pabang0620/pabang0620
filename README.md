@@ -58,7 +58,6 @@
 
 - **2024.01 프로젝트 리딩 및 기획 (전체 생명주기 참여), Drag and Drop, API 개발**
 
-- ** node.js react.js 유지보수 경험 다수 **
 ## 🔗 연결
 - **개인 개발일지**: [노션에서 보기](https://www.notion.so/dbdcc66c9db6405ab756d27c6f79e1fe)
 - **포트폴리오**: [노션에서 확인하기](https://www.notion.so/089ff8c90e6a4549b75dc777eff7734d)
