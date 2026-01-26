@@ -38,11 +38,18 @@ const wonho = {
 ### 🏢 Funnels Inc. (Dec 2023 - Present)
 **Software Developer**
 
+<div align="center">
+
+📊 **1.5M+ Monthly Visitors** &nbsp;&nbsp;|&nbsp;&nbsp; 📈 **6,000+ Leads/Month** Managed
+
+</div>
+
 | Project | Description | Impact |
 |---------|-------------|--------|
+| **Lead Management Platform** | Internal lead processing & CRM system | Managing **6,000+ leads/month** with real-time filtering & analytics |
+| **Ad Performance Dashboard** | Marketing analytics visualization | Real-time ROI tracking across multiple ad platforms |
+| **AWS Cost Optimization** | Infrastructure cost reduction | EC2, RDS, CloudFront optimization for high-traffic services |
 | **Dentotal** | Dental lab management system | End-to-end development from user interviews to production |
-| **Lead Management Platform** | Real-time lead processing dashboard | Processing **200+ leads/day** with filtering & visualization |
-| **Corporate Website** | Company landing page | Rapid adaptation to requirement changes |
 
 ### 💻 Freelance Development (Mar 2023 - Dec 2024)
 **Development PM / Full-Stack Developer**
@@ -73,9 +80,10 @@ const wonho = {
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### AI & Automation
 ![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -88,35 +96,21 @@ const wonho = {
 
 ## 🔥 Featured Projects
 
-### 🎮 [Game Automation Tool](https://github.com/pabang0620/puzzle)
-> Python-based automation with OCR and image recognition
-
-- **CAPTCHA auto-solving** with color character recognition
-- **Multi-window monitoring** for simultaneous game instances
-- **Hotkey support** (F6 start / F7 stop)
-- Tech: `Python` `OpenCV` `PyAutoGUI` `Tesseract OCR`
-
 ### 📱 [SNS Auto Poster](https://github.com/pabang0620/sns-auto-poster)
-> Automated social media posting with AI content generation
+> Fully automated social media posting with AI-generated content
 
 ```
-Gemini API → Image Generation → Text Overlay → Auto Post
-     ↓              ↓                ↓            ↓
-  Dev Tips    Pollinations AI    ImageProcessor   Playwright
+┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
+│ Gemini API  │ → │ Pollinations│ → │   Image     │ → │  Playwright │
+│ (Dev Tips)  │    │ (AI Image)  │    │  Processor  │    │ (Auto Post) │
+└─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
 ```
 
-- **Zero-cost** self-hosted solution
+- **Zero-cost** self-hosted automation
 - **Multi-platform** support (Threads, Instagram)
-- **AI-generated** content with Gemini API
+- **AI-generated** content using Gemini API
+- **Scheduled posting** with n8n workflows
 - Tech: `Python` `Playwright` `Gemini API` `n8n`
-
-### 🏢 [Corporate Website Template](https://github.com/pabang0620/canai)
-> Modern Korean-style company homepage with rich animations
-
-- **6-page** responsive website
-- **Scroll animations** with Framer Motion
-- **Interactive UI** components
-- Tech: `Next.js 15` `TypeScript` `Tailwind CSS` `Framer Motion`
 
 ### 📊 Portfolio Demo Projects
 > Live demos of freelance work
