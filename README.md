@@ -123,9 +123,9 @@ Gemini API → Image Generation → Text Overlay → Auto Post
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| **Croft Dashboard** | Smart farm monitoring with drag-and-drop charts | [View](https://github.com/pabang0620/maker-ads) |
-| **Elice Workbook** | Interactive math problem solver | [View](https://github.com/pabang0620/maker-ads) |
-| **DriveWeb** | Vehicle log management system | [View](https://github.com/pabang0620/maker-ads) |
+| **Croft Dashboard** | Smart farm monitoring with drag-and-drop charts | [Live Demo](https://maker-ads.vercel.app/portfolio/croft) |
+| **Elice Workbook** | Interactive math problem solver | [Live Demo](https://maker-ads.vercel.app/portfolio/elice) |
+| **DriveWeb** | Vehicle log management system | [Live Demo](https://maker-ads.vercel.app/portfolio/driveweb) |
 
 ---
 
@@ -160,7 +160,7 @@ Gemini API → Image Generation → Text Overlay → Auto Post
 
 **I'm always open to interesting projects and opportunities!**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lwh970924@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://blog-five-opal.vercel.app/wonho)
 
 </div>
