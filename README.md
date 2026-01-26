@@ -1,52 +1,176 @@
-## 👋 안녕하세요! 풀스택 개발자 이원호입니다.
+<div align="center">
 
-프론트엔드와 백엔드를 모두 다루며, 서비스의 기획부터 배포까지 전 과정을 주도적으로 수행해 왔습니다.  
-사용자 경험과 실질적인 문제 해결을 중시하며, React와 Node.js, AWS 기반의 웹 프로젝트에 강점을 가지고 있습니다.
+# Hi, I'm Wonho Lee 👋
 
----
+### Full-Stack Developer | AI-Powered Development Enthusiast
 
-### 💼 경력 요약
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://blog-five-opal.vercel.app/wonho)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabang0620)
 
-#### 📌 프리랜서 외주 개발 (2023.03 ~ 2024.12)  
-- 역할: 개발 PM / 프론트엔드 및 풀스택 개발  
-- 플랫폼: 크몽 (임시직/프리랜서 형태)
-
-**주요 프로젝트**
-- **엘리스 수학 문제집**
-  - 문제 유형 구성 화면과 동적 UI 컴포넌트 구현
-- **크로프트 스마트팜 대시보드**
-  - 실시간 센서 데이터 시각화 및 상태 모니터링 기능 개발
-- **SAT 영어 시험 응시 시스템**
-  - 서비스 전체 기획, 시험 타이머/자동 채점/문제 셔플 구현
-- **운행일지 관리 시스템**
-  - CRUD 백오피스 + AWS 배포까지 전 과정 단독 개발
+</div>
 
 ---
 
-#### 🏢 퍼널스 (2023.12 ~ 현재)  
-- 역할: 개발팀 사원  
-- 환경: React, Node.js, AWS, MySQL 등
+## 🚀 About Me
 
-**참여 프로젝트**
-- **덴토탈 기공물 관리 시스템**
-  - 사용자 인터뷰 → 요구사항 분석 → 개발 및 배포
-- **퍼널스 공식 홈페이지**
-  - 기획 변경에 빠르게 대응하며 프론트 전담
-- **리드 기반 랜딩페이지 및 관리 솔루션**
-  - 일일 200건 이상의 리드 데이터 처리 및 시각화/필터링 기능 개발
+I'm a **Full-Stack Developer** who thrives on building products from concept to deployment. I leverage **AI-powered development tools** like Claude Code to maximize productivity while maintaining high code quality.
+
+```typescript
+const wonho = {
+  role: "Full-Stack Developer",
+  focus: ["Productivity", "Code Quality", "User Experience"],
+  currentlyLearning: "AI Agent Development",
+  funFact: "I automate everything that can be automated"
+};
+```
+
+### What Sets Me Apart
+
+- 🤖 **AI-Augmented Development** — Using Claude as a coding partner to ship features faster with cleaner code
+- 🎯 **End-to-End Ownership** — From planning to deployment, I handle the entire development lifecycle
+- ⚡ **Rapid Iteration** — Building MVPs quickly, then refining for production quality
+- 🔧 **Automation Mindset** — If it's repetitive, I'll automate it
 
 ---
 
-### 🛠️ 기술 스택
+## 💼 Professional Experience
 
-- **Frontend**: React (Hooks, Context), HTML/CSS, SCSS, Styled-components  
-- **Backend**: Node.js, Express.js, MySQL, Prisma  
-- **Infra**: AWS EC2, S3, RDS, Route 53  
-- **Dev Tools**: Git, Figma, Notion, Slack
+### 🏢 Funnels Inc. (Dec 2023 - Present)
+**Software Developer**
+
+| Project | Description | Impact |
+|---------|-------------|--------|
+| **Dentotal** | Dental lab management system | End-to-end development from user interviews to production |
+| **Lead Management Platform** | Real-time lead processing dashboard | Processing **200+ leads/day** with filtering & visualization |
+| **Corporate Website** | Company landing page | Rapid adaptation to requirement changes |
+
+### 💻 Freelance Development (Mar 2023 - Dec 2024)
+**Development PM / Full-Stack Developer**
+
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **Elice Math Workbook** | React, CSS Grid | Dynamic quiz components with real-time grading |
+| **Croft Smart Farm Dashboard** | React, ECharts, DnD | Real-time sensor visualization, drag-and-drop layout |
+| **SAT English Test Platform** | React, Node.js | Timer, auto-grading, question shuffling |
+| **Vehicle Log Management** | React, Express, AWS | Full-stack solo development with cloud deployment |
 
 ---
 
-### 📫 Contact
+## 🛠️ Tech Stack
 
+<div align="center">
 
-- Portfolio: https://blog-five-opal.vercel.app/wonho
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### AI & Automation
+![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+### 🎮 [Game Automation Tool](https://github.com/pabang0620/puzzle)
+> Python-based automation with OCR and image recognition
+
+- **CAPTCHA auto-solving** with color character recognition
+- **Multi-window monitoring** for simultaneous game instances
+- **Hotkey support** (F6 start / F7 stop)
+- Tech: `Python` `OpenCV` `PyAutoGUI` `Tesseract OCR`
+
+### 📱 [SNS Auto Poster](https://github.com/pabang0620/sns-auto-poster)
+> Automated social media posting with AI content generation
+
+```
+Gemini API → Image Generation → Text Overlay → Auto Post
+     ↓              ↓                ↓            ↓
+  Dev Tips    Pollinations AI    ImageProcessor   Playwright
+```
+
+- **Zero-cost** self-hosted solution
+- **Multi-platform** support (Threads, Instagram)
+- **AI-generated** content with Gemini API
+- Tech: `Python` `Playwright` `Gemini API` `n8n`
+
+### 🏢 [Corporate Website Template](https://github.com/pabang0620/canai)
+> Modern Korean-style company homepage with rich animations
+
+- **6-page** responsive website
+- **Scroll animations** with Framer Motion
+- **Interactive UI** components
+- Tech: `Next.js 15` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+### 📊 Portfolio Demo Projects
+> Live demos of freelance work
+
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| **Croft Dashboard** | Smart farm monitoring with drag-and-drop charts | [View](https://github.com/pabang0620/maker-ads) |
+| **Elice Workbook** | Interactive math problem solver | [View](https://github.com/pabang0620/maker-ads) |
+| **DriveWeb** | Vehicle log management system | [View](https://github.com/pabang0620/maker-ads) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabang0620&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pabang0620&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🔄 Productivity          →  AI-augmented development       │
+│  ✨ Code Quality          →  Clean architecture patterns    │
+│  🤖 AI Integration        →  Claude Code, Custom agents     │
+│  📈 Continuous Learning   →  Always shipping, always growing│
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**I'm always open to interesting projects and opportunities!**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://blog-five-opal.vercel.app/wonho)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Automate the boring stuff, focus on what matters."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=pabang0620&color=blueviolet&style=flat-square)
+
+</div>
