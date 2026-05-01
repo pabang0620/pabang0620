@@ -61,6 +61,15 @@ Running my own freelance operation. Services: custom web apps, data crawling, au
 
 ## Side Projects
 
+### [skill-fog](https://github.com/pabang0620/skill-fog) · [npm](https://www.npmjs.com/package/skill-fog)
+
+Claude Code usage pattern detector — auto-generates skills, commands, and agents from repeated requests.
+
+- Hooks into Claude Code sessions silently via Stop hook
+- Detects patterns across sessions (threshold: 3x / 2 sessions)
+- Prompts user to convert patterns into reusable tools
+- Pure bash, no runtime required — `npm install -g skill-fog`
+
 ### [SNS Auto Poster](https://github.com/pabang0620/sns-auto-poster)
 
 Automated social media posting with AI-generated content.
